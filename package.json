@@ -34,7 +34,7 @@
   "devDependencies": {
     "git-precommit-checks": "^2.3.3",
     "husky": "^3.0.5",
-    "node-sass": "^4.12.0",
+    "node-sass": "^7.0.0",
     "precise-commits": "^1.0.2",
     "sass-loader": "^8.0.0",
     "webpack": "^4.39.3"
